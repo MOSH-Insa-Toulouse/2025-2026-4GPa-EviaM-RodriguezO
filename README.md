@@ -58,6 +58,21 @@ Dispositif sans boîtier de protection
 Ces images peuvent être visualisées dans le dossier **3D designs**
 
 ### Code Arduino
+Le code Arduino a pour but de permettre à l'utilisateur d'interagir avec tous les composants du système : 
+
+- Le contrôle du servomoteur
+  - Modification de l'angle d'inclinaison.
+  
+- Le réglage du potentiomètre numérique
+  - Ajustement du gain du système.
+
+- L'affichage local
+  - Visualisation en temps réel des données sur l'écran OLED.
+
+- La communication Bluetooth
+  - Transmission des données des deux capteurs vers l'application mobile.
+ > [!TIP]
+> Le capteur en graphite est très sensible à la qualité du dépôt de graphite. Il est recommandé d'utiliser un crayon 3B afin d'obtenir une variation de résistance plus importante.
 ### Logiciel pour portables
 Grâce à la plateforme MIT App Inventor, nous avons conçu une application dont la fonction principale était de pouvoir recevoir et représenter graphiquement les données captées par un ou les deux capteurs simultanément, ainsi que de pouvoir envoyer des données pour commander à la fois le servomoteur et le potentiomètre numérique ; toutefois, l'envoi de données n'a pas eu lieu.
 <p align="center">
