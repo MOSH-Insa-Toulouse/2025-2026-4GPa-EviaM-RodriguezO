@@ -30,6 +30,9 @@ Schéma du circuit sur KiCad
 Après avoir déterminé les connexions du circuit, nous avons pu passer à la conception du circuit imprimé, qui devait tenir compte de certains aspects tels que l'optimisation de l'espace, la largeur minimale des pistes tant pour la transmission des données que pour l'alimentation, la résolution possible lors de l'impression, ainsi que la disposition des composants afin d'éviter d'avoir à souder trop de ponts.
 
 <img width="776" height="587" alt="image" src="https://github.com/user-attachments/assets/4a89d056-d9c2-4984-8b99-233851680ac5" />
+<p align="center">
+Dessin du circuit imprimé sur KiCad
+</p>
 
 
 Voir la documentation dans le dossier **Fichiers Kicad**
