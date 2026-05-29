@@ -38,6 +38,25 @@ Dessin du circuit imprimé sur KiCad.
 Voir la documentation dans le dossier **Fichiers Kicad**
 
 ### Shield
+Le modèle 3D du système créé, y compris sa couverture, est présenté dans l'image suivante.
+
+<p align="center">
+<img width="816" height="696" alt="image" src="https://github.com/user-attachments/assets/1d7100c7-3715-4635-9e02-fbd95ad723be" />
+
+Système pret pour être implementé
+</p>
+
+Afin de mieux présenter les composants, nous allons nous appuyer sur la figure suivante, qui nous permet de voir tous les éléments qui composent le projet, à commencer par le microcontrôleur Arduino, qui assure la conversion des signaux analogiques en signaux numériques ainsi que le contrôle et la coordination des différentes fonctions ; le capteur low-tech qui sera mis à l'épreuve ; le capteur commercial, afin de pouvoir le comparer à un produit en principe mieux adapté à l'objectif ; l'encodeur, qui permet de sélectionner les fonctions et de les commander manuellement; l'écran OLED, qui nous permet de disposer d'une interface pour sélectionner et contrôler manuellement les fonctions, ainsi que pour afficher les données transmises par les capteurs ; et enfin, le module Bluetooth, qui permet de recevoir les données des capteurs et de les afficher dans l'application mobile.
+
+<p align="center">
+<img width="839" height="616" alt="image" src="https://github.com/user-attachments/assets/0b7e3cfc-1081-4228-9ddb-c0ac7c69511c" />
+
+
+Dispositif sans boîtier de protection
+</p>
+
+Ces images peuvent être visualisées dans le dossier **3D designs**
+
 ### Code Arduino
 ### Logiciel pour portables
 Grâce à la plateforme MIT App Inventor, nous avons conçu une application dont la fonction principale était de pouvoir recevoir et représenter graphiquement les données captées par un ou les deux capteurs simultanément, ainsi que de pouvoir envoyer des données pour commander à la fois le servomoteur et le potentiomètre numérique ; toutefois, l'envoi de données n'a pas eu lieu.
