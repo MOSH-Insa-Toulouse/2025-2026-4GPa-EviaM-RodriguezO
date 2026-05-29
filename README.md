@@ -18,7 +18,7 @@ C'est sur la base de ce comportement que l'on cherche à déduire l'angle d'incl
 Ce projet est basé du travail trouvé dans: Lin, CW, Zhao, Z., Kim, J. et al. (2014); Nature, "Pencil Drawn Strain Gauges and Chemiresistors on Paper".
 
 ## Livrables
-### LTSpice
+
 ### KiCad
 Pour créer la carte qui nous permettrait de disposer de notre circuit, il a fallu réaliser la conception à l'aide du logiciel KiCad, en tenant compte de tous les composants et en utilisant les connexions convenues en cours.
 
