@@ -24,14 +24,14 @@ Pour créer la carte qui nous permettrait de disposer de notre circuit, il a fal
 
 <img width="1067" height="723" alt="image" src="https://github.com/user-attachments/assets/047386df-b6f0-40a4-bb80-ef5c6cd5c5a4" />
 <p align="center">
-Schéma du circuit sur KiCad
+Schéma du circuit sur KiCad.
 </p>
 
 Après avoir déterminé les connexions du circuit, nous avons pu passer à la conception du circuit imprimé, qui devait tenir compte de certains aspects tels que l'optimisation de l'espace, la largeur minimale des pistes tant pour la transmission des données que pour l'alimentation, la résolution possible lors de l'impression, ainsi que la disposition des composants afin d'éviter d'avoir à souder trop de ponts.
 
 <img width="776" height="587" alt="image" src="https://github.com/user-attachments/assets/4a89d056-d9c2-4984-8b99-233851680ac5" />
 <p align="center">
-Dessin du circuit imprimé sur KiCad
+Dessin du circuit imprimé sur KiCad.
 </p>
 
 
@@ -45,10 +45,10 @@ Grâce à la plateforme MIT App Inventor, nous avons conçu une application dont
 <img width="233" height="356" alt="image" src="https://github.com/user-attachments/assets/0311451c-5eb8-4153-8b4c-7ee4ba206b4d" /> <img width="233" height="356" alt="image" src="https://github.com/user-attachments/assets/94a4a5a3-bd85-4a07-bee5-77647120f4fd" />
 </p>
 <p align="center">
-Application crée, face avant au démarrage / avec les fonctions
+Application crée, face-avant au démarrage / avec les fonctions.
 </p>
 
-Le code des blocs derrière l'interface est visible sur les images suivantes
+Le code des blocs derrière l'interface est visible sur les images suivantes.
 
 <img width="1308" height="655" alt="image" src="https://github.com/user-attachments/assets/e1ab4e29-2118-45b2-89d1-57f97e194c88" />
 <img width="1278" height="377" alt="image" src="https://github.com/user-attachments/assets/920bb55d-6b9c-4a3f-b7e2-3a09c574f540" />
@@ -57,7 +57,7 @@ Bloques de code.
 </p>
 
 
-Voir la documentation dans le dossier **Application Mobile**
+Voir la documentation dans le dossier **Application Mobile**.
 ### Datasheet
 ## Conclusion 
 Ce projet nous a permis de voir concrètement comment exploiter un phénomène physique pour mesurer un changement au sein d'un système ; en recourant à des moyens simples et en tirant parti de propriétés microscopiques, nous avons pu concevoir un dispositif qui nous a permis de collecter et de traiter des données de manière relativement simple.
