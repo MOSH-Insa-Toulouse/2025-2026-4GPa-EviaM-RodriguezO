@@ -42,7 +42,7 @@ Voir la documentation dans le dossier **Fichiers Kicad**
 ### Logiciel pour portables
 Grâce à la plateforme MIT App Inventor, nous avons conçu une application dont la fonction principale était de pouvoir recevoir et représenter graphiquement les données captées par un ou les deux capteurs simultanément, ainsi que de pouvoir envoyer des données pour commander à la fois le servomoteur et le potentiomètre numérique ; toutefois, l'envoi de données n'a pas eu lieu.
 
-<img width="466" height="712" alt="image" src="https://github.com/user-attachments/assets/0311451c-5eb8-4153-8b4c-7ee4ba206b4d" /> <img width="471" height="707" alt="image" src="https://github.com/user-attachments/assets/94a4a5a3-bd85-4a07-bee5-77647120f4fd" />
+<img width="233" height="356" alt="image" src="https://github.com/user-attachments/assets/0311451c-5eb8-4153-8b4c-7ee4ba206b4d" /> <img width="233" height="356" alt="image" src="https://github.com/user-attachments/assets/94a4a5a3-bd85-4a07-bee5-77647120f4fd" />
 <p align="center">
 Application crée, face avant au démarrage / avec les fonctions
 </p>
@@ -50,7 +50,6 @@ Application crée, face avant au démarrage / avec les fonctions
 Le code des blocs derrière l'interface est visible sur les images suivantes
 
 <img width="1308" height="655" alt="image" src="https://github.com/user-attachments/assets/e1ab4e29-2118-45b2-89d1-57f97e194c88" />
-
 <img width="1278" height="377" alt="image" src="https://github.com/user-attachments/assets/920bb55d-6b9c-4a3f-b7e2-3a09c574f540" />
 <p align="center">
 Bloques de code.
