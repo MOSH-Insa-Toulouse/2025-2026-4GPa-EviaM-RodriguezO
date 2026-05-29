@@ -41,8 +41,9 @@ Voir la documentation dans le dossier **Fichiers Kicad**
 ### Code Arduino
 ### Logiciel pour portables
 Grâce à la plateforme MIT App Inventor, nous avons conçu une application dont la fonction principale était de pouvoir recevoir et représenter graphiquement les données captées par un ou les deux capteurs simultanément, ainsi que de pouvoir envoyer des données pour commander à la fois le servomoteur et le potentiomètre numérique ; toutefois, l'envoi de données n'a pas eu lieu.
-
+<p align="center">
 <img width="233" height="356" alt="image" src="https://github.com/user-attachments/assets/0311451c-5eb8-4153-8b4c-7ee4ba206b4d" /> <img width="233" height="356" alt="image" src="https://github.com/user-attachments/assets/94a4a5a3-bd85-4a07-bee5-77647120f4fd" />
+</p>
 <p align="center">
 Application crée, face avant au démarrage / avec les fonctions
 </p>
@@ -58,4 +59,7 @@ Bloques de code.
 
 Voir la documentation dans le dossier **Application Mobile**
 ### Datasheet
-## Conclusion et Bilan Critique
+## Conclusion 
+Ce projet nous a permis de voir concrètement comment exploiter un phénomène physique pour mesurer un changement au sein d'un système ; en recourant à des moyens simples et en tirant parti de propriétés microscopiques, nous avons pu concevoir un dispositif qui nous a permis de collecter et de traiter des données de manière relativement simple.
+
+Cependant, le projet a également mis en évidence les limites de l'utilisation de ce type de systèmes low-tech, à commencer par la capacité à reproduire les mêmes résultats, car il existe un grand nombre de variables à prendre en compte, telles que l'état du papier, la composition du graphite, la qualité du trait tracé ; toutes ces variables affectent le fonctionnement et l'étalonnage du capteur, et sont difficiles à normaliser manuellement. Et, parallèlement, certaines de ces variables étant très sensibles à l'utilisation, cela finit par nuire à la fiabilité des données recueillies au fil du temps.
