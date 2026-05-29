@@ -20,8 +20,15 @@ Ce projet est basé du travail trouvé dans: Lin, CW, Zhao, Z., Kim, J. et al. (
 ## Livrables
 ### LTSpice
 ### KiCad
+Pour créer la carte qui nous permettrait de disposer de notre circuit, il a fallu réaliser la conception à l'aide du logiciel KiCad, en tenant compte de tous les composants et en utilisant les connexions convenues en cours.
+<img width="1067" height="723" alt="image" src="https://github.com/user-attachments/assets/047386df-b6f0-40a4-bb80-ef5c6cd5c5a4" />
+<p align="center">
+Schéma du circuit sur KiCad
+</p>
 
-Voir la documentation dans [Fichiers_Kicad](Fichiers/Kicad).
+
+
+Voir la documentation dans le dossier Fichiers Kicad
 
 ### Shield
 ### Code Arduino
