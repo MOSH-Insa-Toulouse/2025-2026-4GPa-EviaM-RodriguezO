@@ -93,6 +93,7 @@ Bloques de code.
 
 Voir la documentation dans le dossier **Application Mobile**.
 ### Datasheet
+Toutes les spécifications du capteur, sa caractérisation et sa simulation dans le logiciel LTspice sont disponibles dans la fiche technique: (Datasheets/Datasheet_MOSH_EN.pdf)
 ## Conclusion 
 Ce projet nous a permis de voir concrètement comment exploiter un phénomène physique pour mesurer un changement au sein d'un système ; en recourant à des moyens simples et en tirant parti de propriétés microscopiques, nous avons pu concevoir un dispositif qui nous a permis de collecter et de traiter des données de manière relativement simple.
 
