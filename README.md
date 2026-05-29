@@ -21,14 +21,18 @@ Ce projet est basé du travail trouvé dans: Lin, CW, Zhao, Z., Kim, J. et al. (
 ### LTSpice
 ### KiCad
 Pour créer la carte qui nous permettrait de disposer de notre circuit, il a fallu réaliser la conception à l'aide du logiciel KiCad, en tenant compte de tous les composants et en utilisant les connexions convenues en cours.
+
 <img width="1067" height="723" alt="image" src="https://github.com/user-attachments/assets/047386df-b6f0-40a4-bb80-ef5c6cd5c5a4" />
 <p align="center">
 Schéma du circuit sur KiCad
 </p>
 
+Après avoir déterminé les connexions du circuit, nous avons pu passer à la conception du circuit imprimé, qui devait tenir compte de certains aspects tels que l'optimisation de l'espace, la largeur minimale des pistes tant pour la transmission des données que pour l'alimentation, la résolution possible lors de l'impression, ainsi que la disposition des composants afin d'éviter d'avoir à souder trop de ponts.
+
+<img width="776" height="587" alt="image" src="https://github.com/user-attachments/assets/4a89d056-d9c2-4984-8b99-233851680ac5" />
 
 
-Voir la documentation dans le dossier Fichiers Kicad
+Voir la documentation dans le dossier **Fichiers Kicad**
 
 ### Shield
 ### Code Arduino
