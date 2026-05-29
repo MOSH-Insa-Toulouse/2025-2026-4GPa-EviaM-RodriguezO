@@ -21,7 +21,7 @@ Ce projet est basé du travail trouvé dans: Lin, CW, Zhao, Z., Kim, J. et al. (
 ### LTSpice
 ### KiCad
 
-Voir la documentation dans [Fichiers_Kicad](Fichiers_Kicad/).
+Voir la documentation dans [Fichiers_Kicad](Fichiers/Kicad).
 
 ### Shield
 ### Code Arduino
