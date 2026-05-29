@@ -20,6 +20,9 @@ Ce projet est basé du travail trouvé dans: Lin, CW, Zhao, Z., Kim, J. et al. (
 ## Livrables
 ### LTSpice
 ### KiCad
+
+Voir la documentation dans [Fichiers_Kicad](Fichiers_Kicad/).
+
 ### Shield
 ### Code Arduino
 ### Logiciel pour portables
