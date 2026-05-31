@@ -3,7 +3,12 @@
 
 # Projet Capteur
 Dans le cadre du UF « Du capteur au banc de test », ce travail doit concevoir et mettre en œuvre un système de mesure de déformation par un capteur en graphite, lowtech, et comparer son débrouillement à un autre capteur commercial.
-
+Le principe de fonctionnement du capteur en graphite est expliqué comme: La mine de crayon est déposée mécaniquement à la surface du papier, où elle s’insère partiellement dans sa structure poreuse. Cette opération conduit à la formation d’une piste conductrice constituée de particules de graphite dispersées au sein des fibres cellulosiques du papier, le liant jouant principalement un rôle isolant. L’ensemble des particules établit un réseau conducteur dont la continuité dépend du nombre de contacts électriques entre les grains de graphite. Le état du capteur dédnad, la géométrie dépend de la manière dont on s'en sert: une traction tend à éloigner les particules et à réduire les points de contact, tandis qu’une compression favorise leur rapprochement et augmente les connexions conductrices. Ces variations de connectivité se traduisent par une modification mesurable de la résistance électrique de la piste.
+La figure suivante illustre, dans la partie c), le fonctionnement du réservoir de graphite sur le feuille:
+<img width="1067" height="723" alt="image" src="https://github.com/user-attachments/assets/047386df-b6f0-40a4-bb80-ef5c6cd5c5a4" />
+<p align="center">
+Schéma du circuit sur KiCad.
+</p>
 ## Objectifs du projet
 - Concevoir et réaliser un shield Arduino intégrant un capteur de contrainte en graphite de conception simple afin d'en déterminer les caractéristiques.
 - Concevoir un circuit électronique analogique capable de transmettre des données via un microcontrôleur à une application Android, ainsi que la mise en place d'un banc d'essai.
