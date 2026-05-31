@@ -96,8 +96,8 @@ Voir la documentation dans le dossier **Application Mobile**.
 Toutes les spécifications du capteur, sa caractérisation et sa simulation dans le logiciel LTspice sont disponibles dans la fiche technique: [Datasheet](Datasheets/Datasheet_MOSH_EN.pdf)
 # Caractérisation du système 
 La réponse du capteur à la manipulation a été caractérisée à l'aide de deux types différents de feuilles de graphite : de type HB et de type 3HB. En faisant varier la résistance du potentiomètre, on a constaté que la tension maximale du capteur était atteinte lorsque le potentiomètre avait un gain de 225. 
-<img width="1108" height="455" alt="image" src="Caracterization/POT1 (1).jpeg" />
-<img width="1778" height="177" alt="image" src="Caracterization/POT2 (1).jpeg" />
+<img width="1000" height="455" alt="image" src="Caracterization/POT1 (1).jpeg" />
+<img width="1000" height="455" alt="image" src="Caracterization/POT2 (1).jpeg" />
 
 <p align="center">
 Caractérisation du capteur.
